@@ -1,3 +1,3 @@
-Je suis AGBA Pamela étudiante en informatique (Génie logiciel et système d'information)
+Je suis AGBA Pamela étudiante en intelligence artificielle et Big data
 Ce ReadMe vous permettra de mieux me connaitre 
 
